@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652190113 source:d:\c++ rendu\flot maximal\main.cpp
+	<limits.h>
+	<string.h>
+	<iostream>
+	<queue>
+
